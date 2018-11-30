@@ -11,7 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
+    "express-http-context": "^1.2.0",
+    "express-http-proxy": "^1.5.0",
     "http-proxy": "^1.17.0",
+    "newrelic": "^4.11.0",
     "nodemon": "^1.18.6",
     "react": "^16.6.0",
     "react-dom": "^16.6.0"
