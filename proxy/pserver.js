@@ -13,7 +13,7 @@ app.use(bodyparser.json());
 app.use(bodyparser.urlencoded({extended: true}));
 // const stockPriceChart = 'http://localhost:3001',
 // priceVolumeChart = 'http://localhost:3002',
-const buyService = 'http://ec2-54-183-187-33.us-west-1.compute.amazonaws.com:3000/',
+const buyService = 'http://ec2-54-193-61-129.us-west-1.compute.amazonaws.com:3000',
 // peopleAlsoBought = 'http://localhost:3004';
 
 
